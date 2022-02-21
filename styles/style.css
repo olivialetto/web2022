@@ -2,11 +2,74 @@ html {
   font-size: 100%;
 }
 body {
-  background-color: #eeeeee38;
+  background-color: #eeeeee;
   padding: 0;
   margin: 0;
   font-family: "Californian FB", AppleMyungjo;
 }
 header{
-  background-color: #g1738;
+  background-color: #00ffff;
+  color: #004b6eff;
+  font-size: 1.2rem;
+  padding: 1em 3em 1em 3em;
+  text-align: center;
+  font-weight: bold;
+}
+
+nav ul{
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  background-color: #004b6eff;
+  padding: 1em 4em 1em 4em;
+}
+nav ul li{
+  display: inline;
+  font-weight: bold;
+}
+
+nav ul li a{
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+nav ul li a:hover{
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.wrapper{
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+}
+#primary{
+  padding: 0 1em 0 1em;
+  border: 3px solid #004b6eff;
+}
+#first{
+  padding: 1em 1em 0 1em;
+}
+#secondary{
+  padding: 0em 1em 0em 1em;
+  border: 3px solid #004b6eff;
+}
+#second{
+  padding: 1em 1em 0 1em;
+}
+figure{
+  padding: 1em 1em 0 1em;
+}
+figure img{
+  width: 100%;
+  height: 75%;
+}
+
+footer{
+  background-color: #00ffff;
+  color: black;
+  font-size: .7rem;
+  padding: 0.8em 1em 1em 2em;
+  font-weight: bold;
 }
