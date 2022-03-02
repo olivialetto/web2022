@@ -49,8 +49,7 @@ nav ul li a:hover{
   margin: 1rem;
   padding: 0 1em 0 1em;
   border: 3px solid #004b6eff;
-  font-size: 2em;
-  width: 8em;
+  font-size: 1em;
 }
 #first{
   padding: 1em 1em 0 1em;
@@ -59,9 +58,7 @@ nav ul li a:hover{
   margin: 1rem;
   padding: 0 1em 0 1em;
   border: 3px solid #004b6eff;
-  font-size: 2em;
-  width: 8em;
-  height: 2em;
+  font-size: 1em;
 }
 #second{
   padding: 1em 1em 0 1em;
