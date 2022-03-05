@@ -28,6 +28,7 @@ nav ul{
 nav ul li{
   display: inline;
   font-weight: bold;
+  /*changes*/
 }
 
 nav ul li a{
