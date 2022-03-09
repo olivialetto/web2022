@@ -13,6 +13,7 @@ header{
   font-size: 1.5rem;
   padding: .5em 3em .5em 3em;
   text-align: center;
+  text-decoration: none;
   font-weight: bold;
 }
 
@@ -83,6 +84,30 @@ figure img{
   width: 100%;
 
 }
+form{
+  background-color: #B7E9F7;
+  width: 25em;
+  height: 25em;
+  justify-content: : right;
+  padding-left: 2em;
+
+
+
+}
+.wrapper2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.image{
+  width: 25em;
+  height: 29em;
+}
+.wrapcontactme{
+  text-align: center;
+  font-size: 150%
+}
+
 
 footer{
   background: linear-gradient(to top right, #B7E9F7, white);
