@@ -83,6 +83,7 @@ figure{
   margin: 0;
 
 }
+
 figure img{
   width: 100%;
 
@@ -93,10 +94,8 @@ form{
   height: 25em;
   justify-content: : right;
   padding-left: 2em;
-
-
-
 }
+
 .wrapper2{
   display: flex;
   flex-wrap: wrap;
@@ -115,6 +114,34 @@ form{
   font-size: 150%;
 }
 
+.resumeimg{
+  display: flex;
+  justify-content: center;
+}
+
+.wrapwork{
+  text-align: center;
+  font-size: 150%;
+}
+
+#worktitle{
+  text-align:center;
+}
+
+#start{
+  padding: 1em 1em 0 1em;
+}
+
+
+#workprimary{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 0 1em 0 1em;
+  margin: 1em;
+  border: 3px solid #004b6eff;
+  width: 37rem;
+}
 
 footer{
   background: linear-gradient(to top right, #B7E9F7, white);
