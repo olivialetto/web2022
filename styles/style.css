@@ -130,18 +130,17 @@ form{
 
 #start{
   padding: 1em 1em 0 1em;
-}
-
-
-#workprimary{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  padding: 0 1em 0 1em;
   margin: 1em;
+  padding: 0 1em 0 1em;
   border: 3px solid #004b6eff;
   width: 37rem;
 }
+
+.topwork{
+  display: flex;
+  justify-content: center;
+}
+
 
 footer{
   background: linear-gradient(to top right, #B7E9F7, white);
