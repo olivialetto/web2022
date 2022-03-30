@@ -141,6 +141,18 @@ form{
   justify-content: center;
 }
 
+#start2{
+  padding: 1em 1em 0 1em;
+  margin: 1em;
+  padding: 0 1em 0 1em;
+  border: 3px solid #004b6eff;
+  width: 37rem;
+}
+
+.project1{
+  display: flex;
+  justify-content: center;
+}
 
 footer{
   background: linear-gradient(to top right, #B7E9F7, white);
