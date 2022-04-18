@@ -84,6 +84,16 @@ figure{
 
 }
 
+.resumeimg{
+  display: flex;
+  flex: wrap;
+}
+
+.resumetext{
+  display: flex;
+  flex: wrap;
+}
+
 figure img{
   width: 100%;
 
