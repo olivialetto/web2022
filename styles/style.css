@@ -86,12 +86,12 @@ figure{
 
 .resumeimg{
   display: flex;
-  flex: wrap;
+  flex-wrap: wrap;
 }
 
 .resumetext{
   display: flex;
-  flex: wrap;
+  flex-wrap: wrap;
 }
 
 figure img{
